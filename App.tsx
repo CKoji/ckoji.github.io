@@ -1,3 +1,4 @@
+
 import React, { useState, useMemo } from 'react';
 
 // --- SVG Icon Components (defined outside the main App component for performance) ---
