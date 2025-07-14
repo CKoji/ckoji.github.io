@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Brew Calculator",
+  "description": "A simple calculator to determine the water needed for your pour-over coffee based on the amount of grounds and number of pours.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
